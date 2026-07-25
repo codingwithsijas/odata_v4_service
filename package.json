@@ -1,0 +1,27 @@
+{
+  "name": "cap_service",
+  "version": "1.0.0",
+  "dependencies": {
+    "@sap/cds": "^9"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "dev": "cds watch"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "sqlite",
+        "credentials": { "url": ":memory:" }
+      }
+    },
+    "odata": {
+      "version": "v4",
+      "batch": true
+    }
+  },
+  "private": true
+}

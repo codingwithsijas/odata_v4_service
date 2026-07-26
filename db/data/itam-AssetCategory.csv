@@ -1,0 +1,11 @@
+ID,Code,Name,Description,DepreciationPeriod
+a0000000-0000-0000-0000-000000000001,LAPTOP,Laptop,Portable computers,36
+a0000000-0000-0000-0000-000000000002,DESKTOP,Desktop,Desktop workstations,48
+a0000000-0000-0000-0000-000000000003,MOBILE,Mobile Phone,Smartphones and tablets,24
+a0000000-0000-0000-0000-000000000004,MONITOR,Monitor,Display screens,60
+a0000000-0000-0000-0000-000000000005,DOCK,Docking Station,Port replicators and docks,36
+a0000000-0000-0000-0000-000000000006,PRINTER,Printer,Printers and multi-function devices,60
+a0000000-0000-0000-0000-000000000007,SERVER,Server,Rack and tower servers,60
+a0000000-0000-0000-0000-000000000008,NETSWITCH,Network Switch,Managed and unmanaged switches,60
+a0000000-0000-0000-0000-000000000009,KEYB,Keyboard,Input keyboards,24
+a0000000-0000-0000-0000-000000000010,MOUSE,Mouse,Input pointing devices,24

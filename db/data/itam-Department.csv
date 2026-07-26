@@ -1,0 +1,6 @@
+ID,Code,Name,Description,CostCenter
+d0000000-0000-0000-0000-000000000001,IT,Information Technology,Responsible for all IT infrastructure and software,CC-IT-001
+d0000000-0000-0000-0000-000000000002,HR,Human Resources,Manages employee lifecycle and benefits,CC-HR-002
+d0000000-0000-0000-0000-000000000003,FIN,Finance,Financial planning and accounting,CC-FIN-003
+d0000000-0000-0000-0000-000000000004,OPS,Operations,Day-to-day business operations,CC-OPS-004
+d0000000-0000-0000-0000-000000000005,MKT,Marketing,Brand and marketing campaigns,CC-MKT-005

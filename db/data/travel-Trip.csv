@@ -1,5 +1,0 @@
-TripId,Name,Budget,Description,StartsAt,EndsAt,Status,person_UserName
-1001,Trip in US,3000.00,Trip from San Francisco to New York,2014-01-01T00:00:00Z,2014-01-04T00:00:00Z,active,russellwhyte
-1002,Trip in Beijing,2000.00,Trip from Beijing to Shanghai,2014-02-01T00:00:00Z,2014-02-04T00:00:00Z,active,russellwhyte
-1003,Honeymoon,2650.00,Honeymoon trip,2014-02-01T00:00:00Z,2014-02-05T00:00:00Z,active,scottketchum
-1004,Business Trip,1500.00,Annual conference,2014-03-03T00:00:00Z,2014-03-07T00:00:00Z,active,ronaldmundy

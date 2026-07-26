@@ -1,0 +1,11 @@
+{
+  "name": "category",
+  "version": "0.0.1",
+  "description": "An SAP Fiori application.",
+  "main": "webapp/index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "@ui5/cli": "^4.0.33",
+    "@sap/ux-ui5-tooling": "1"
+  }
+}

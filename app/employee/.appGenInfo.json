@@ -1,0 +1,32 @@
+{
+  "generationParameters": {
+    "generationDate": "Sun Jul 26 2026 12:19:00 GMT+0530 (India Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "Local CAP",
+    "metadataFilename": "",
+    "serviceUrl": "http://localhost:4004/employees/",
+    "appName": "employee",
+    "appTitle": "Manage Employees",
+    "appDescription": "An SAP Fiori application.",
+    "appNamespace": "mastering.fe",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.150.0",
+    "enableEslint": true,
+    "enableTypeScript": false,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.29.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Employees"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "assignmentHistory"
+      }
+    ],
+    "launchText": "To launch the generated app, start your CAP project:  and navigate to the following location in your browser:\n\nhttp://localhost:4004/mastering.fe.employee/index.html"
+  }
+}
